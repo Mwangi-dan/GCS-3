@@ -8,4 +8,4 @@ elif m % 2 != 0 and m in range(6,21):
     print("Weird")
 
 else:
-    print("Weird")
+    print("Not weird")
